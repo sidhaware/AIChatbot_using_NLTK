@@ -1,0 +1,26 @@
+Cricket is a popular sport played worldwide. The game is played between two teams, each consisting of eleven players. Matches are typically held on a circular field called a cricket ground.
+
+Basic Cricket Facts:
+1. Cricket has three main formats: Test cricket, One Day Internationals (ODIs), and Twenty20 (T20) matches.
+2. The governing body for international cricket is the International Cricket Council (ICC).
+3. The cricket ball is made of leather and weighs between 155.9 and 163.0 grams.
+4. Batsmen score runs by hitting the ball and running between wickets.
+
+Cricket Statistics:
+1. Sachin Tendulkar holds the record for the highest number of runs in international cricket.
+2. Sir Don Bradman has the highest batting average in Test cricket.
+3. Muttiah Muralitharan is the highest wicket-taker in international cricket.
+4. The highest team score in ODIs is 481/6 by England against Australia.
+5. The fastest century in T20 Internationals was scored by David Miller in 35 balls.
+
+Cricket Teams:
+1. The Indian cricket team is known as the "Men in Blue."
+2. Australia's team is nicknamed the "Baggy Greens."
+3. England's team is often referred to as the "Three Lions."
+
+Cricket World Cups:
+1. The ICC Cricket World Cup is held every four years.
+2. The West Indies won the first two Cricket World Cups in 1975 and 1979.
+3. India won the World Cup in 1983, led by captain Kapil Dev.
+
+These basic facts and statistics provide a starting point for your NLP project on cricket. For a more extensive and dynamic dataset, consider integrating real-time data using APIs or scraping cricket-related websites.
